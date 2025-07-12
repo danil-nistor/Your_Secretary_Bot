@@ -3,8 +3,8 @@ import json
 import re
 
 # Замените на свои значения
-id_ya = "b1ghnehmnn3n3dvbqi90"  # Folder ID
-key_ya = "AQVNz9XUQGq4KhejXKZ-8PLoDVwLZrPGARRazGnK"  # API-ключ
+id_ya = ""  # Folder ID
+key_ya = ""  # API-ключ
 
 def normalize_event(event_data):
     """
