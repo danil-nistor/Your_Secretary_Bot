@@ -16,12 +16,9 @@
 
 ```
 project_root/
-├── bot.py                  # Основной Telegram-бот
 ├── calendar_service.py     # Работа с Google Calendar API
 ├── gpt.py                  # Интеграция с Yandex GPT
-├── config.py               # Конфигурационные параметры
 ├── credentials.json        # Ключи Google Cloud Console
-├── .env                    # Переменные окружения
 ├── tokens/                 # Сохранённые токены пользователей
 ├── requirements.txt        # Зависимости Python
 └── README.md               # Документация
