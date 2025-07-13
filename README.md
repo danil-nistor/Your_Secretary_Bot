@@ -76,6 +76,6 @@ python secretary_bot.py
 
 - `secretary_bot.py` - основной Telegram бот
 - `calendar_service.py` - сервис для работы с Google Calendar
-- `test_calendar.py` - тестовый скрипт для проверки OAuth
+- `test_gpt_calendar.py` - тестовый скрипт для проверки OAuth и записи события в календарь
 - `credentials.json` - файл с OAuth credentials (нужно создать)
 - `tokens/` - папка с сохраненными токенами пользователей 
